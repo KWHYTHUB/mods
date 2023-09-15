@@ -1,0 +1,13 @@
+{
+	"sapphire": "v1.0.0",
+	"version": "v1.2.1",
+	"id": "sapphire.devtools",
+	"name": "DevTools",
+	"developer": "Sapphire Team",
+	"description": "Developer tools for Sapphire",
+	"repository": "https://github.com/KWHYTHUB/DevTools",
+	"issues": {
+		"url": "https://github.com/KWHYTHUB/DevTools/issues",
+		"info": "If you encounter an issue using DevTools, please report it to the GitHub issues page."
+	}
+}

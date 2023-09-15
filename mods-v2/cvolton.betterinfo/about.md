@@ -1,6 +1,6 @@
 # BetterInfo
 
-The best epic modification ever made for Geometry Dash is here! BetterInfo, now available for Geode!
+The best epic modification ever made for Geometry Dash is here! BetterInfo, now available for Sapphire!
 
 ## Features
 - Profiles for unregistered users

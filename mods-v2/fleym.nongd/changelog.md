@@ -15,7 +15,7 @@
  * Disable NONGd for levels that use Robtop level songs
  * Update json impl to match the new json library version API
  * Add a small indicator to the song label to hint that you can click it
- * Fixed text inputs for Geode v1.0.0-beta.14
+ * Fixed text inputs for Sapphire v1.0.0-beta.14
 
 ## v1.0.1
 

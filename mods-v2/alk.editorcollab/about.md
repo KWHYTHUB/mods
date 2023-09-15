@@ -42,7 +42,7 @@ Developed by Alk1m123 (alk) with love and tears. Please support me!
 
 ### Third Party Libraries
 
- * [Geode](https://github.com/geode-sdk/geode) - [License](https://github.com/geode-sdk/geode/blob/main/LICENSE.txt)
+ * [Sapphire](https://github.com/KWHYTHUB/sapphire) - [License](https://github.com/KWHYTHUB/sapphire/blob/main/LICENSE.txt)
 
  * [Websocketpp](https://github.com/zaphoyd/websocketpp) - [License](https://github.com/zaphoyd/websocketpp/blob/master/COPYING)
 
@@ -62,6 +62,6 @@ Developed by Alk1m123 (alk) with love and tears. Please support me!
 
 ## Thanks
 
-Huge thanks to the Geode Development team for making me not suffer porting the mod to Windows. Love you [HJfod](https://twitter.com/hjfod), [Mat](https://twitter.com/mateus44_/), [PoweredByPie](https://github.com/poweredbypie/), and other people who helped me in some capacity.
+Huge thanks to the Sapphire Development team for making me not suffer porting the mod to Windows. Love you [HJfod](https://twitter.com/hjfod), [Mat](https://twitter.com/mateus44_/), [PoweredByPie](https://github.com/poweredbypie/), and other people who helped me in some capacity.
 
 Also big thanks to you for using my mod, either as a user or host. I love you. <3

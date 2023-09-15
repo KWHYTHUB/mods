@@ -5,7 +5,7 @@
 # v1.0.1
 
  * Removed debug printf
- * Changed save path to geode's
+ * Changed save path to sapphire's
 
 # v1.0.0
 

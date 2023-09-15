@@ -1,5 +1,5 @@
 # Simple Patch Loader
-A simple patch loader for Geode.
+A simple patch loader for Sapphire.
 Supports MHv5, MHv6, GDHM and its own format.
 Integrates with MHv7 if installed.
 

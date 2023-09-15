@@ -10,6 +10,6 @@ This bot is **heavily** inspired by [ReplayBot](https://github.com/matcool/Repla
 
 ### Special thanks
 - [HJFod](https://github.com/hjfod) (Libraries)
-- [KontrollFreek](https://github.com/KontrollFreek) (Geode icon)
+- [KontrollFreek](https://github.com/KontrollFreek) (Sapphire icon)
 - [TGDPS members](https://discord.gg/AqqDEteRtT) (Beta testing (especially Impostor69 and Hykre))
 - [meramie](https://www.youtube.com/channel/UCwcP_WpIrMj423GcZvA2hiQ) (Low-End hardware testing)
